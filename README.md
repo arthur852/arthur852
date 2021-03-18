@@ -1,7 +1,5 @@
 # 👋 Welcome ![Visitors](https://visitor-badge.glitch.me/badge?page_id=arthur852) 
 
-<br>
-
 ## 🤠 About me
 
 Hi. My name is Arthur.
