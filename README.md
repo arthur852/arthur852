@@ -21,7 +21,6 @@ I will be very glad if you need something from my repository.
 <img align="left" alt="SQL" width="26px" src="https://cdn2.iconfinder.com/data/icons/line-design-database-set-4/21/sql-badge-512.png" />
 
 <br>
-<br>
 
 <img align="left" alt="Html" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 
