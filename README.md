@@ -1,8 +1,10 @@
-# 👋 Welcome ![](https://komarev.com/ghpvc/?username=arthur852)
+# 👋 Welcome ![Visitors](https://visitor-badge.glitch.me/badge?page_id=arthur852) 
 
 ## 🤠 About me
 
-My name is Arthur, and I'm a .NET Developer.
+My name is Arthur
+
+I'm a .NET Developer.
 
 ## Languages and Tools:
 
