@@ -7,8 +7,6 @@ Hi. My name is Arthur.
 
 I'm a beginner .NET Developer.
 
-I will be very glad if you need something from my repository.
-
 ## Languages and Tools:
 
 <img align="left" alt="C#" width="26px" src="https://edu.softline.by/upload/catalog/small/1612771776_c-sharp-c-logo.png" />
