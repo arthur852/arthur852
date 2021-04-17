@@ -1,12 +1,6 @@
 ### 👋 Welcome 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=arthur852) 
 
-## 🤠 About me
-
-Hi. My name is Arthur.
-
-I'm a beginner .NET Developer.
-
 ## Languages and Tools:
 
 <img align="left" alt="C#" width="26px" src="https://edu.softline.by/upload/catalog/small/1612771776_c-sharp-c-logo.png" />
