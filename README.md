@@ -1,4 +1,4 @@
-### 👋 Welcome ![Visitors](https://visitor-badge.glitch.me/badge?page_id=arthur852) 
+### 👋 Welcome !
 
 ## Languages and Tools:
 
