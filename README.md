@@ -2,8 +2,6 @@
 
 ## Languages and Tools:
 
-<img align="left" alt="C#" width="26px" src="https://edu.softline.by/upload/catalog/small/1612771776_c-sharp-c-logo.png" />
-
 <img align="left" alt=".NET" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png" />
 
 <img align="left" alt="SQL" width="26px" src="https://cdn2.iconfinder.com/data/icons/line-design-database-set-4/21/sql-badge-512.png" />
